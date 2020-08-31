@@ -4,8 +4,12 @@
   ## Badges 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+  ## Video
+  https://youtu.be/fbD2Gpk7qTQ
+
   ## Table of Contents 
   * [Description](#description)
+  * [Video](#video)
   * [Installation](#installation)
   * [License](#license)
   * [Questions](#questions)
